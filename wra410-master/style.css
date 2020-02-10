@@ -1,0 +1,120 @@
+body {
+    background-color: #a9a9a9;
+    font-family: 'Times New Roman', Helvetica, Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #18453B;
+}
+
+h1 {
+  margin: 0;
+  padding: 10px;
+  color: #ffffff;
+}
+
+h2 {
+  margin: 0;
+  padding: 10px;
+  color: #ffffff;
+}
+
+h3 {
+  margin: 0;
+  padding: 10px;
+  color: #a9a9a9;
+}
+h4 {
+  margin: 0;
+  padding: 0px;
+  color: #000000;
+  text-align: left;
+}
+h5 {
+  margin: 0;
+  padding: 0px;
+  color: #000000;
+  text-align: center;
+}
+img {
+  max-width: 175%
+  height: auto;
+}
+
+#container {
+    background-color: white;
+    width: 1020px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+#header {
+    background-color: #18453B;
+    color: white;
+    text-align: center;
+    padding: 10px;
+
+}
+
+#content {
+  padding: 10px;
+}
+
+#nav {
+  width: 150px;
+  float: left;
+  padding: 20px;
+}
+
+#nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#nav .selected {
+  font-weight: bold;
+}
+
+#main {
+  width: 800px;
+  float: right;
+
+}
+#groups{
+  width: 1000px;
+  text-align: left;
+  float:left;
+}
+
+#student-group {
+  clear: both;
+  margin: 20px;
+  border: 20px;
+  padding: 10px;
+  background-color: #18453B;
+  color: white;
+  text-align: left;
+}
+
+#footer {
+  clear: both;
+  padding: 10px;
+  background-color:#a9a9a9;
+  color: white;
+  text-align: right;
+}
+.wrapper{
+  display: center
+}
+
+.schedule-date {
+  font-weight: bold;
+  color: black;
+  text-align: right;
+}
+.schedule-resources {
+  font-weight: lighter;
+  color: white;
+  text-align: left;
+}
